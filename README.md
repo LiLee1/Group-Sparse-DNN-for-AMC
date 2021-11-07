@@ -1,3 +1,6 @@
+# 论文中提出了基于Two-fold Group Lasso的轻量级深度神经网络，并对同一调制模式下的信号识别取得了不错的效果
+用到2016.10b数据集，可以作为方案（1）使模型轻量化，也可以作为方案（2）能很好的识别同一调制模式下的信号，如QAM16和QAM64。
+
 # Group-Sparse-DNN-for-AMC
 A Two-fold Group Lasso based Lightweight Deep Neural Network for Automatic Modulation Classification
 
